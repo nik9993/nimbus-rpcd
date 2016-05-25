@@ -7,7 +7,7 @@ case "$1" in
     list)
             echo '{"func1": {"arg1":"value", "arg2":"value"}, "func2": {"arg1":"value"}, "func3":{}}'
     ;;
-    call}
+    call)
             case "$2" in
                 func1)
                     read input
