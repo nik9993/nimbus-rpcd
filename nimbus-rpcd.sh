@@ -21,6 +21,6 @@ case "$1" in
                     read input
                     echo '{"func":"tion3"}'
                 ;;
-            esace
+            esac
     ;;
 esac
